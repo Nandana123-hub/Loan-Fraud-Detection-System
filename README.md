@@ -29,3 +29,12 @@ An AI-powered web application that predicts whether a loan application is **frau
 
 ## 📂 Project Structure
 
+loan_fraud_detection/
+├── model.pkl # Trained ML model
+├── scaler.pkl # Trained feature scaler
+├── train_model.py # Script to train and save model
+├── app.py # Streamlit web app
+├── loan_data.csv/ # Contains train/test CSV files
+└── README.md
+
+
