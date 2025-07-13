@@ -1,0 +1,8 @@
+to run : 
+        streamlit run app.py
+to run train_model.py:
+                      py train_model.py
+to install any packages:
+                      py -m ensurepip --upgrade
+                      py -m pip install --upgrade pip
+                      py -m pip install pandas scikit-learn joblib
